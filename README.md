@@ -1,3 +1,3 @@
-#Next.js 13 ver
+# Next.js 13 ver
 
-##Navbar 반응형 연습
+## Navbar 반응형 연습
